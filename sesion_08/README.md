@@ -63,7 +63,7 @@ Lo más conveniente es que su decisión, aunque sea específica, reconozca un ra
 
 #### Exploración práctica
 
-https://profesorfaco.github.io/front-2023-1/sesion_08/
+https://AndresMartinM.github.io/front-2023-1/sesion_08/
 
 - - - - - - - 
 
