@@ -14,7 +14,6 @@ En el `index.html` de este sitio web tendrán que presentar:
 - *Moodboard* de referentes;
 - Paleta cromática derivada del *moodboard*;
 - [*Font pairing*](https://heyreliable.com/ultimate-google-font-pairings/) pertinente a *moodboard* y paleta cromática derivada;
-- vínculo a 4 páginas con análisis de antecedentes (`antecedente-0.html`, `antecedente-1.html`, `antecedente-2.html`, `antecedente-3.html`); 
 - un *wireframe* de página portada; y
 - otro *wireframe* de una página interior.
 
@@ -31,6 +30,13 @@ También podría sumar una revisión de:
 - https://blog.ida.cl/diseno/repositorio-recursos-wireframes/
 
 - https://blog.ida.cl/wp-content/uploads/sites/5/2016/03/ida-archivo-ixd.pdf
+
+
+- - - - - - - 
+
+#### Exploración práctica
+
+Completaremos https://profesorfaco.github.io/front-2023-1/sesion_10/
 
 - - - - - - - 
 
